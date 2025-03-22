@@ -1,2 +1,3 @@
 # 33726ProjetoFerrari
-Repositório para site da Ferrari
+Repositório para site da Ferrari 
+Feito para estudo
